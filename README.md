@@ -29,8 +29,8 @@ Python 3.x
 pip (Python package installer)
 
 Setup
-1.Clone the repository:git clone https://github.com/yourusername/face-recognition-attendance.git
-cd face-recognition-attendance
+1.Clone the repository:[git clone https://github.com/yourusername/face-recognition-attendance.git
+cd face-recognition-attendance](https://github.com/Kunalpal01/face_recognition_based_attendence_system.git)
 
 2.python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
